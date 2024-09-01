@@ -18,8 +18,3 @@ Thumbs.db
 
 # Vite
 vite.config.js.timestamp-*
-<<<<<<< HEAD
-vite.config.ts.timestamp-*
-=======
-vite.config.ts.timestamp-*
->>>>>>> 059d4a737a55df03b60651bc81b0852e61289831
